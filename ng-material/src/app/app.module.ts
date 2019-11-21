@@ -7,7 +7,7 @@ import { AppComponent } from './app.component';
 import 'hammerjs';
 
 
-adfasdfasdfa
+@NgModule({
   declarations: [
     AppComponent
   ],
